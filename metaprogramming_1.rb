@@ -6,7 +6,9 @@ class Account
 			self.send(key)
 		end
 	end
+
 end
+
 user_info = {
 		name: 'Matt',
 		address: '312 Random St.',
